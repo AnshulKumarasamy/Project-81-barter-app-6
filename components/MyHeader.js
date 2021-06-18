@@ -9,5 +9,3 @@ export const MyHeader = props => {
         />
     );
 };
-
-export default MyHeader;
